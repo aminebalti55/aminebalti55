@@ -2,11 +2,13 @@
 
 # Med Amine Balti
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Full-stack+products+for+SaaS%2C+fleet+ops%2C+and+AI;React+%2B+Next.js+%2B+NestJS+%2B+Spring+Boot+%2B+Postgres;Private+client+systems%2C+public+case+studies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Full-stack+product+engineer+for+founders+and+client+teams;I+turn+rough+ideas+into+shipped+web+products;MVPs%2C+dashboards%2C+marketplaces%2C+automations%2C+internal+tools)](https://git.io/typing-svg)
 
 [Portfolio](https://aminebdev.vercel.app) · [LinkedIn](https://www.linkedin.com/in/aminebdev/) · [Email](mailto:mohamedamine.balti@esprit.tn)
 
 </div>
+
+I build full-stack products for clients who need more than a pretty interface. Bring me the product problem: MVP, dashboard, marketplace, internal platform, automation, AI workflow, payment flow, or operations tool. I can own the path from UX and frontend to APIs, database, deployment, and the details that make it usable in production.
 
 ## Stack I reach for
 
@@ -29,17 +31,27 @@
   </tr>
 </table>
 
-## Work worth clicking
+## What I can build for clients
 
-| Project | Signal |
+| Need | What I can own |
 | --- | --- |
-| [Compass GPS](https://aminebdev.vercel.app/work/compass) | Fleet tracking, maps, vehicles, drivers, dashboards, backend APIs. |
-| [InvoiceBirds](https://aminebdev.vercel.app/work/invoicebirds) | Invoicing, payments, documents, clients, expenses, SaaS workflows. |
-| [AutoAlly](https://aminebdev.vercel.app/work/autoally) | Marketplace, real-time messaging, escrow, KYC, transactions. |
-| [Pulse](https://github.com/aminebalti55/lead_prospector) | Lead engine with scrapers, website audits, scoring, exports, and a web UI. |
-| [Portfolio](https://github.com/aminebalti55/Portfolio) | Case-study site with SEO, Open Graph, analytics, and project pages. |
+| Product from zero | Scope, UX flows, responsive UI, API, database, auth, deployment. |
+| Business workflow software | Dashboards, roles, approvals, notifications, documents, search, exports. |
+| Revenue/product systems | SaaS flows, subscriptions, payments, admin panels, analytics, customer portals. |
+| Data and automation | Scrapers, lead engines, scoring, AI-assisted workflows, integrations, scheduled jobs. |
+| Credible public presence | Product pages, portfolio pages, SEO, Open Graph, performance, case studies. |
 
-Most commercial code is private. The public profile points to case studies and public samples instead of leaking client work.
+## Proof of range
+
+| Project | What it proves |
+| --- | --- |
+| [Compass GPS](https://aminebdev.vercel.app/work/compass) | Real-time operations, maps, roles, vehicle data, dashboards, backend APIs. |
+| [InvoiceBirds](https://aminebdev.vercel.app/work/invoicebirds) | SaaS workflows, invoices, payments, documents, clients, expenses, reporting. |
+| [AutoAlly](https://aminebdev.vercel.app/work/autoally) | Marketplace logic, messaging, escrow, KYC, transactions, trust flows. |
+| [Pulse](https://github.com/aminebalti55/lead_prospector) | Lead automation, scraping, website audits, scoring, exports, web UI. |
+| [Portfolio](https://github.com/aminebalti55/Portfolio) | SEO, case studies, Open Graph, analytics, polish, project storytelling. |
+
+These are examples of range, not a box. Most commercial code is private, so the public profile points to proof, case studies, and selected public samples.
 
 ## GitHub pulse
 
@@ -64,9 +76,9 @@ Most commercial code is private. The public profile points to case studies and p
   </picture>
 </div>
 
-## I like problems where
+## Best fit
 
-- messy business workflows need to become simple product flows;
-- dashboards need real data, not placeholder UI;
-- APIs, databases, auth, payments, and deployment all have to work together;
-- a founder or team needs one engineer to own the path from idea to shipped product.
+- a founder needs a useful v1 without building a whole team first;
+- a business process needs to become a real product, not a spreadsheet workaround;
+- an existing app needs cleaner UX, stronger backend logic, or production polish;
+- a team needs one engineer who can connect product thinking, implementation, and deployment.
