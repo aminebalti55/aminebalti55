@@ -44,8 +44,16 @@ Most commercial code is private. The public profile points to case studies and p
 ## GitHub pulse
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aminebalti55&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
+  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aminebalti55&theme=github_dark" alt="GitHub contribution summary" />
+</div>
+
+<div align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=aminebalti55&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+  <img height="170" src="https://github-profile-trophy.vercel.app/?username=aminebalti55&theme=algolia&no-frame=true&no-bg=true&row=1&column=3&margin-w=8" alt="GitHub trophies" />
+</div>
+
+<div align="center">
+  <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=aminebalti55&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
 </div>
 
 <div align="center">
